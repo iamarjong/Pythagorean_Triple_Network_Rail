@@ -2,7 +2,7 @@
 
 這是 2006年3月的成品，初學程式沒幾回就直接開工。 由於用 excel 拉雖然方便，但這裡的變量稍微多一些，也不是那麼容易查閱，所以用程式。 
 
-fout_maxad_as2.cpp 是用來計算 $x^2-2y^2=\pm d$，當(x,y) 存在不可約正整數解時的 d 以及前幾個解。 輸出部份為 fout_maxad_as2.out 。 
+fout_maxad_as2.cpp 是用來計算 $x^2-2y^2=\pm d$當(x,y) 存在不可約正整數解時的 d 以及前幾個解。 輸出部份為 fout_maxad_as2.out 。 
 
 fout_maxad_d.cpp 則是把有解的 d 列出來而已，輸出到 fout_maxad_d.out。 
 
